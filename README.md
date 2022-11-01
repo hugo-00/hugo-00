@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux, Python & CyberSecurity
 - 🌱 I’m currently learning Linux studying for LPIC-2 certification
 - 💞️ I’m looking to collaborate on cybersecurity projects
-- 📫 How to reach me ...
+- 📫 How to reach me on www.linkedin.com/in/hugo-lopes-teixeira
 
 <!---
 hugo-00/hugo-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
